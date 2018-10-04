@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documentation
+title: 김국식의 블로그다!
 img: image-5.png
 ---
 
@@ -18,7 +18,7 @@ After forking the repository, click on **branches**.
 
 Delete ``gh-pages`` branch.
 ![delete gh-pages branch](http://blog.webjeda.com/images/delete-github-branch-2.png)
-
+D:\sinwoa.github.io\_posts
 You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
 
 ![create gh-pages branch](http://blog.webjeda.com/images/create-gh-pages-branch.JPG)
